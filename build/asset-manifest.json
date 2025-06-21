@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/image-asset-generator/static/css/main.0c9a947c.chunk.css",
+    "main.js": "/image-asset-generator/static/js/main.5f8e7d45.chunk.js",
+    "main.js.map": "/image-asset-generator/static/js/main.5f8e7d45.chunk.js.map",
+    "runtime-main.js": "/image-asset-generator/static/js/runtime-main.c04d4c45.js",
+    "runtime-main.js.map": "/image-asset-generator/static/js/runtime-main.c04d4c45.js.map",
+    "static/js/2.75ce5936.chunk.js": "/image-asset-generator/static/js/2.75ce5936.chunk.js",
+    "static/js/2.75ce5936.chunk.js.map": "/image-asset-generator/static/js/2.75ce5936.chunk.js.map",
+    "index.html": "/image-asset-generator/index.html",
+    "static/css/main.0c9a947c.chunk.css.map": "/image-asset-generator/static/css/main.0c9a947c.chunk.css.map",
+    "static/js/2.75ce5936.chunk.js.LICENSE.txt": "/image-asset-generator/static/js/2.75ce5936.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c04d4c45.js",
+    "static/js/2.75ce5936.chunk.js",
+    "static/css/main.0c9a947c.chunk.css",
+    "static/js/main.5f8e7d45.chunk.js"
+  ]
+}
